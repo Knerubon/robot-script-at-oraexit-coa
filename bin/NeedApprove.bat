@@ -1,0 +1,1 @@
+robot -d ..\Result\needapprove ..\TestSuites\needapprove.robot
